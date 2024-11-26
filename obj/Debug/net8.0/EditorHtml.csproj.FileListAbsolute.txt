@@ -1,0 +1,14 @@
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\DEV Projetos\C#\EditorHtml\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
